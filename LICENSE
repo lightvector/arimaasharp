@@ -1,0 +1,34 @@
+
+The license for the content of this repository is as follows:
+
+------------------------
+
+Copyright 2021 David J Wu ("lightvector")
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+------------------------
+
+Please note that while the above license covers the code and other content of this repository, the Arimaa game itself is NOT
+covered by that license. Regarding the Arimaa game and related intellectual property, please observe the following notice:
+
+------------------------
+
+This software is being provided with a written authorization from Arimaa.com and in compliance with "Section 3 of the Arimaa
+Public License". Authorization #210414. Any rights granted by the end user license of this software apply only to this software
+and do not extend to the Arimaa game. The end user is responsible to ensure that any derivative work based on this software
+complies with the Arimaa Public License and obtain any authorization or license by contacting Arimaa.com. The Arimaa name is
+a trademark of Arimaa.com. The Arimaa game is patented. The Arimaa game rules, the Arimaa board design and the Arimaa
+piece design are copyright protected. The Arimaa Public License allows cost free use of the Arimaa game for non-commercial
+use. More information can be found at http://arimaa.com/
+
+------------------------
+
